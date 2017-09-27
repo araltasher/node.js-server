@@ -33,9 +33,16 @@ $   5.4.2
 ```
 
 #### Usage
- 
- You can start up the server 
+
+Clone this repository to your directory
 
 ```
-npm start
+$   git clone https://github.com/araltasher/node.js-server.git
+$   cd node.js-server
+```
+ 
+You can start up the server 
+
+```
+$   npm start
 ````
